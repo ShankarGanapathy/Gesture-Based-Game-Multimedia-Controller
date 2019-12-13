@@ -1,16 +1,10 @@
-HI,
+# Gesture-Based-Game-Multmedia-Controller
+
+---
+## Basic Introduction
+### This project aims at controlling multimedia on your laptop / Desktop by means of gestures.<br/> When i refer to multimedia i mean the following things
+	* Audio Player
+	* Video Player
+	* Racing Games
 
 
-
-
-Here ill be writing down stuff for the readme a little bit later.
-NOt now cause i kinda busy actually uploading the files.
-
-
-SO toots.
-
-
-TTYL.
-
-
-# GEsture-Based-Game-Multmedia-Controller
